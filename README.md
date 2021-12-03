@@ -2,18 +2,18 @@
 
 Use pip:
 
-```$ pip install hkavr```
+```$ pip install MuseCP```
   
 ## Usage
 
 To create a device:
 ```
-import hkavr
-hk = hkavr.HkAVR("192.168.0.250", "Name (Optional)")
+import MuseCP
+muse = MuseCP.MuseProcessor("192.168.0.250", "Name (Optional)")
 ```
 
 ## License
-MIT
+GNU
 
 ## Author
-@Devqon: https://github.com/Devqon
+@MikeKade: https://github.com/MikeKade
